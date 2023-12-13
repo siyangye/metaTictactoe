@@ -120,6 +120,8 @@ class Game:
             return "draw"
     
         if first == second and first == third:
+            return "succeed"
+    
         if first != second and None != second or first != third and None != third:
             return "draw"
         return "continue"
@@ -214,7 +216,7 @@ if __name__ == '__main__':
     if 'y' == answer or 'Y' == answer:
         # Play with bot
         print("Play first?")
-        answer = input() 
+        answer = input()
         if 'y' == answer or 'Y' == answer:
             # U play first
             game = Game(HumanPlayer(), BotPlayer())
