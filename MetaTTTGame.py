@@ -119,7 +119,7 @@ class Game:
                 return "continue"
             return "draw"
     
-        if first == second and first == third::
+        if first == second and first == third:
         if first != second and None != second or first != third and None != third:
             return "draw"
         return "continue"
