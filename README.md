@@ -1,6 +1,10 @@
 # Ultimate Tic-Tac-Toe
 
-## Description
+## Why I create this game?
+
+I created this game as a twist on the classic Tic-Tac-Toe, which is a popular project for practicing programming fundamentals. My first venture into programming was crafting a Tic-Tac-Toe game back in 2022 as a school project, which was quite challenging at the time. Inspired by that experience, I wanted to elevate the game to a new level, adding complexity to see how much my programming skills have improved. This enhanced version is not just a test of strategic thinking but also a measure of my growth as a developer.
+
+## Game Description
 
 Ultimate Tic-Tac-Toe takes the classic tic-tac-toe game to a new level. In this variation, two players take turns placing X's and O's on a 3x3 grid. However, unlike traditional tic-tac-toe, this game involves **9 simultaneous instances** of tic-tac-toe, adding a complex and strategic layer to the gameplay.
 
